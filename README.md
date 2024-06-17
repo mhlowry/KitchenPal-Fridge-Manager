@@ -1,6 +1,6 @@
 The project is an application for a fridge management system.
 
-Group members:
+Contributors:
 
 * Nicholas Brown
 * Noor Haider
